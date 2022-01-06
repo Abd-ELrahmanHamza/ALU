@@ -2,7 +2,7 @@
 
 ## **Contributors**
 
-| [Abdelrahman Mohamed](https://github.com/Abd-ELrahmanHamza) | [Asmaa Adel](https://github.com/asmaaadel0) | [Ziad Sherif](https://github.com/ZiadSheriif) | [Ziad Tarek](https://github.com/ZeyadTa) |
+| [Abdelrahman Mohamed](https://github.com/Abd-ELrahmanHamza) | [Asmaa Adel](https://github.com/asmaaadel0) | [Ziad Sherif](https://github.com/ZiadSheriif) | [Zeyad Tarek](https://github.com/ZeyadTarekk) |
 | :-----------------: | :-----------: | :---------: | :--------: |
 
 ## **Description**
